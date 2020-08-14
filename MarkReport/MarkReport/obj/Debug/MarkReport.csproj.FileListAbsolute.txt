@@ -1,0 +1,9 @@
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.csprojAssemblyReference.cache
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.Properties.Resources.resources
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.csproj.GenerateResource.cache
+D:\_C#\MarkReport\MarkReport\bin\Debug\MarkReport.exe.config
+D:\_C#\MarkReport\MarkReport\bin\Debug\MarkReport.exe
+D:\_C#\MarkReport\MarkReport\bin\Debug\MarkReport.pdb
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.MainFrame.resources
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.exe
+D:\_C#\MarkReport\MarkReport\obj\Debug\MarkReport.pdb
